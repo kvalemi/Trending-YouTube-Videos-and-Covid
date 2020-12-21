@@ -1,5 +1,3 @@
-# CMPT 353 Final Project: The Pandemic and Trending YouTube Videos
-
 ## Project Description: 
 In this paper, we will investigate and explore trending YouTube video categories in Canada, Great Britain, and the USA during the years of 2018 and 2020. We have designed our analysis such that the 2018 data represents a timeframe not experiencing a pandemic, and conversely, the 2020 data representing a timeframe undergoing an active pandemic. Our analysis will aim to answer the following two questions:
 
@@ -61,4 +59,3 @@ NOTE: The analysis can also be carried out in a Jupyter Notebook for each of the
 
 ## Contributors:
 - Kaveh Alemi, kalemi@sfu.ca
-- Michael Thai, mta24@sfu.ca
