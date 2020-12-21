@@ -55,7 +55,5 @@ NOTE: The analysis can also be carried out in a Jupyter Notebook for each of the
 5) Run `Likes_to_Views_Statistical_Analysis.ipynb` - This file performs non-parametric statistical tests.
 
 
-**Refer to our paper for a thorough explanation of the findings of this analysis.**
-
-## Contributors:
-- Kaveh Alemi, kalemi@sfu.ca
+**Please refer to my paper for a thorough explanation of the findings of this analysis.**
+Paper --> `Project_Paper__FINAL_DRAFT_.pdf`
